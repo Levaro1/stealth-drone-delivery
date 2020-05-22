@@ -146,5 +146,8 @@
       }
     }
   },
-  "defaultProject": "webstart2019"
+  "defaultProject": "webstart2019",
+  "cli": {
+    "analytics": "b165dd01-ca3c-4a78-b08e-95c92d7a2186"
+  }
 }
